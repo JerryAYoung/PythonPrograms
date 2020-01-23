@@ -10,7 +10,6 @@ result = linearSearch(5, unsortedArray)
 print(f"Linear Search of {unsortedArray}")
 print(f"The index position of 5 is: {result}!")
 
-
 ##Binary Search
 sortedArray = [1, 3, 4, 6, 7, 8, 10]
 def binarySearch(sortedArray, l, r, x):
